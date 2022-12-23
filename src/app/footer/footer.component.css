@@ -1,0 +1,23 @@
+.footer{
+
+   
+
+    position: sticky;
+
+    bottom : 0%;
+
+    background-color:rgb(147, 197, 201) ;
+
+    padding: 20px 20px;
+
+}
+
+.p{
+
+    color: #000;
+
+    font-size: 5px;
+
+    text-align: center;
+
+ }
